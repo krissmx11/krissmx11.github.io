@@ -1,0 +1,24 @@
+img {
+    max-width: 100%; 
+    height: auto;
+}
+
+h1, h2 {
+    text-shadow: 1px 1px pink;
+    text-align: center;
+    font-style: italic;
+    font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.special {
+    text-align: justify;
+    text-decoration-line: underline;
+}
+
+article {
+    border: 2px solid red;
+    display: flex;
+    gap: 1rem;
+}
+
+
